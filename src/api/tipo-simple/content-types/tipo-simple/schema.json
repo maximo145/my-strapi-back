@@ -1,0 +1,21 @@
+{
+  "kind": "singleType",
+  "collectionName": "tipo_simples",
+  "info": {
+    "singularName": "tipo-simple",
+    "pluralName": "tipo-simples",
+    "displayName": "name_business",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "social_reason": {
+      "type": "string"
+    },
+    "ruc": {
+      "type": "string"
+    }
+  }
+}
